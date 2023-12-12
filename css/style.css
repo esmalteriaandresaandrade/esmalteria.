@@ -19,6 +19,7 @@ body {
   max-height: 100%;
   background-size: cover;
 }
+/*
 
 html {
   scroll-behavior: smooth;
@@ -399,7 +400,7 @@ button {
   letter-spacing: 2px;
   transition: all 0.3s;
   font-weight: 600;
-}
+}*/
 
 body {
   background-image: url("../img/erro404/erro404.png");
