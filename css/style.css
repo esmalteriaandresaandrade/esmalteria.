@@ -19,7 +19,7 @@ body {
   max-height: 100%;
   background-size: cover;
 }
-/*
+
 
 html {
   scroll-behavior: smooth;
@@ -31,7 +31,7 @@ html {
   font: inherit;
   vertical-align: baseline;
 }
-
+/*
 .navbar {
   color: beige;
   padding: 9px 25px;
